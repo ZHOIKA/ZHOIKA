@@ -17,10 +17,10 @@ jobs:
         with:
           github_user_name: ZHOIKA
 
-      - name: push pacman-contribution-graph.svg to output branch
+      - name: push pacman-contribution-graph.svg to pacman-output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
+          target_branch: pacman-output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

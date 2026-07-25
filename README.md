@@ -196,8 +196,8 @@
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZHOIKA/ZHOIKA/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZHOIKA/ZHOIKA/output/pacman-contribution-graph.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZHOIKA/ZHOIKA/pacman-output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZHOIKA/ZHOIKA/pacman-output/pacman-contribution-graph.svg" />
   <img alt="pacman devouring contributions" src="https://raw.githubusercontent.com/ZHOIKA/ZHOIKA/output/pacman-contribution-graph.svg" width="100%" style="max-width: 800px; filter: grayscale(0.4);" />
 </picture>
 
@@ -623,5 +623,6 @@
 <img src="https://komarev.com/ghpvc/?username=ZHOIKA&color=333333&style=flat&label=visitors&abbreviated=true" alt="visitors" style="filter: grayscale(1); opacity: 0.12;" />
 
 </div>
+
 
 
