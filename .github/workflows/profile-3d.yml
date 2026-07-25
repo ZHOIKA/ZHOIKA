@@ -3,12 +3,12 @@ name: Generate 3D Contribution Profile
 on:
   schedule:
     - cron: "0 0 * * *"
-  push:
-    branches: [main]
   workflow_dispatch:
 
 jobs:
   build:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
@@ -24,6 +24,6 @@ jobs:
           git config user.name "Zyro Team"
           git config user.email "davigomes07silva@gmail.com"
           git add -A .
-          git commit -m "chore: update 3d contribution profile" || exit 0
+          git diff --cached --quiet || git commit -m "chore: update 3d contribution profile"
           git push
 
