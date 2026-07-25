@@ -531,11 +531,11 @@
 
 <br>
 
-<p style="font-family: 'Courier New', monospace; font-size: 11px; color: #181818; letter-spacing: 7px; text-transform: uppercase;">
+<p style="font-family: 'Courier New', monospace; font-size: 11px; color: #ffffff; letter-spacing: 7px; text-transform: uppercase; opacity: 0.12;">
   ✦ Z H O I K A · M M X X V I ✦
 </p>
 
-<p style="font-family: Georgia, serif; font-size: 12px; color: #0d0d0d; font-style: italic; letter-spacing: 2px;">
+<p style="font-family: Georgia, serif; font-size: 12px; color: #ffffff; font-style: italic; letter-spacing: 2px; opacity: 0.08;">
   even fallen angels can write their own heaven
 </p>
 
@@ -543,10 +543,10 @@
 
 <!-- devotional text -->
 <details style="border: none; outline: none;">
-<summary style="list-style: none; cursor: default; color: #1a1a1a; font-family: 'Courier New', monospace; font-size: 9px; letter-spacing: 3px; text-transform: uppercase; opacity: 0.5;">
+<summary style="list-style: none; cursor: default; color: #ffffff; font-family: 'Courier New', monospace; font-size: 9px; letter-spacing: 3px; text-transform: uppercase; opacity: 0.2;">
   ✧ sententiae perpetuae ✧
 </summary>
-<p style="color: #222; font-family: Georgia, serif; font-size: 10px; letter-spacing: 3px; text-transform: uppercase; opacity: 0.4; font-style: italic;">
+<p style="color: #ffffff; font-family: Georgia, serif; font-size: 10px; letter-spacing: 3px; text-transform: uppercase; opacity: 0.15; font-style: italic;">
   et lux in tenebris lucet · tenebrae factae sunt · ex machina · de profundis · ad astra per aspera · memento mori · carpe noctem
 </p>
 </details>
@@ -556,4 +556,6 @@
 <img src="https://komarev.com/ghpvc/?username=ZHOIKA&color=333333&style=flat&label=visitors&abbreviated=true" alt="visitors" style="filter: grayscale(1); opacity: 0.12;" />
 
 </div>
+
+
 
