@@ -218,6 +218,14 @@
   <img src="https://render.gitanimals.org/lines/ZHOIKA" width="100%" height="110" style="max-width: 800px; filter: grayscale(0.6);" alt="git animals" />
 </a>
 
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=ZHOIKA&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/ZHOIKA"
+  width="600"
+  height="300"
+/>
+</a>
+
 <br>
 
 <svg width="360" height="20" viewBox="0 0 360 20" xmlns="http://www.w3.org/2000/svg">
