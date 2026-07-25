@@ -14,15 +14,7 @@
 <br>
 
 <!-- Divider ornament -->
-<svg width="320" height="30" viewBox="0 0 320 30" xmlns="http://www.w3.org/2000/svg">
-  <line x1="20" y1="15" x2="300" y2="15" stroke="white" stroke-width="0.3" opacity="0.1"/>
-  <circle cx="160" cy="15" r="3" fill="white" opacity="0.18">
-    <animate attributeName="opacity" values="0.12;0.55;0.12" dur="3.5s" repeatCount="indefinite"/>
-    <animate attributeName="r" values="3;5;3" dur="3.5s" repeatCount="indefinite"/>
-  </circle>
-  <text x="140" y="14" fill="white" font-size="7" opacity="0.08" font-family="Georgia">✧</text>
-  <text x="175" y="14" fill="white" font-size="7" opacity="0.08" font-family="Georgia">✧</text>
-</svg>
+<img src="https://raw.githubusercontent.com/ZHOIKA/ZHOIKA/main/divider_thin.svg" alt="divider" width="320" />
 
 </div>
 
@@ -34,12 +26,7 @@
 
 <div align="center">
 
-<svg width="360" height="34" viewBox="0 0 360 34" xmlns="http://www.w3.org/2000/svg">
-  <text x="180" y="20" fill="white" opacity="0.3" font-size="12" text-anchor="middle" font-family="Georgia, serif" letter-spacing="7" text-transform="uppercase">
-    ✧ ouroboros
-  </text>
-  <line x1="60" y1="30" x2="300" y2="30" stroke="white" stroke-width="0.2" opacity="0.06"/>
-</svg>
+<img src="https://raw.githubusercontent.com/ZHOIKA/ZHOIKA/main/sec_ouroboros.svg" alt="ouroboros" width="400" />
 
 <br><br>
 
@@ -59,12 +46,7 @@
 
 <div align="center">
 
-<svg width="360" height="34" viewBox="0 0 360 34" xmlns="http://www.w3.org/2000/svg">
-  <text x="180" y="20" fill="white" opacity="0.3" font-size="12" text-anchor="middle" font-family="Georgia, serif" letter-spacing="7" text-transform="uppercase">
-    ✧ familiar spirits
-  </text>
-  <line x1="60" y1="30" x2="300" y2="30" stroke="white" stroke-width="0.2" opacity="0.06"/>
-</svg>
+<img src="https://raw.githubusercontent.com/ZHOIKA/ZHOIKA/main/sec_familiar_spirits.svg" alt="familiar spirits" width="400" />
 
 <br><br>
 
@@ -90,12 +72,7 @@
 
 <div align="center">
 
-<svg width="360" height="34" viewBox="0 0 360 34" xmlns="http://www.w3.org/2000/svg">
-  <text x="180" y="20" fill="white" opacity="0.3" font-size="12" text-anchor="middle" font-family="Georgia, serif" letter-spacing="7" text-transform="uppercase">
-    ✧ serpent
-  </text>
-  <line x1="60" y1="30" x2="300" y2="30" stroke="white" stroke-width="0.2" opacity="0.06"/>
-</svg>
+<img src="https://raw.githubusercontent.com/ZHOIKA/ZHOIKA/main/sec_serpent.svg" alt="serpent" width="400" />
 
 <br><br>
 
@@ -125,12 +102,7 @@
 
 <div align="center">
 
-<svg width="400" height="42" viewBox="0 0 400 42" xmlns="http://www.w3.org/2000/svg">
-  <text x="200" y="24" fill="white" opacity="0.5" font-size="15" text-anchor="middle" font-family="Georgia, serif" letter-spacing="10" text-transform="uppercase">
-    ✦ grimoire
-  </text>
-  <line x1="100" y1="36" x2="300" y2="36" stroke="white" stroke-width="0.3" opacity="0.1"/>
-</svg>
+<img src="https://raw.githubusercontent.com/ZHOIKA/ZHOIKA/main/sec_grimoire.svg" alt="grimoire" width="400" />
 
 <br><br>
 
@@ -195,12 +167,7 @@
 
 <div align="center">
 
-<svg width="460" height="42" viewBox="0 0 460 42" xmlns="http://www.w3.org/2000/svg">
-  <text x="230" y="24" fill="white" opacity="0.5" font-size="15" text-anchor="middle" font-family="Georgia, serif" letter-spacing="10" text-transform="uppercase">
-    ✦ celestial ledger
-  </text>
-  <line x1="110" y1="36" x2="350" y2="36" stroke="white" stroke-width="0.3" opacity="0.1"/>
-</svg>
+<img src="https://raw.githubusercontent.com/ZHOIKA/ZHOIKA/main/sec_celestial_ledger.svg" alt="celestial ledger" width="420" />
 
 <br><br>
 
@@ -230,12 +197,7 @@
 
 <div align="center">
 
-<svg width="420" height="42" viewBox="0 0 420 42" xmlns="http://www.w3.org/2000/svg">
-  <text x="210" y="24" fill="white" opacity="0.5" font-size="15" text-anchor="middle" font-family="Georgia, serif" letter-spacing="10" text-transform="uppercase">
-    ✦ reliquary
-  </text>
-  <line x1="95" y1="36" x2="325" y2="36" stroke="white" stroke-width="0.3" opacity="0.1"/>
-</svg>
+<img src="https://raw.githubusercontent.com/ZHOIKA/ZHOIKA/main/sec_reliquary.svg" alt="reliquary" width="400" />
 
 <br><br>
 
@@ -261,12 +223,7 @@
 
 <div align="center">
 
-<svg width="400" height="42" viewBox="0 0 400 42" xmlns="http://www.w3.org/2000/svg">
-  <text x="200" y="24" fill="white" opacity="0.5" font-size="15" text-anchor="middle" font-family="Georgia, serif" letter-spacing="10" text-transform="uppercase">
-    ✦ armament
-  </text>
-  <line x1="85" y1="36" x2="315" y2="36" stroke="white" stroke-width="0.3" opacity="0.1"/>
-</svg>
+<img src="https://raw.githubusercontent.com/ZHOIKA/ZHOIKA/main/sec_armament.svg" alt="armament" width="400" />
 
 <br><br>
 
@@ -289,12 +246,7 @@
 
 <div align="center">
 
-<svg width="420" height="42" viewBox="0 0 420 42" xmlns="http://www.w3.org/2000/svg">
-  <text x="210" y="24" fill="white" opacity="0.5" font-size="15" text-anchor="middle" font-family="Georgia, serif" letter-spacing="10" text-transform="uppercase">
-    ✦ sanctuary
-  </text>
-  <line x1="90" y1="36" x2="330" y2="36" stroke="white" stroke-width="0.3" opacity="0.1"/>
-</svg>
+<img src="https://raw.githubusercontent.com/ZHOIKA/ZHOIKA/main/sec_sanctuary.svg" alt="sanctuary" width="400" />
 
 <br><br>
 
@@ -360,12 +312,7 @@
 
 <div align="center">
 
-<svg width="400" height="42" viewBox="0 0 400 42" xmlns="http://www.w3.org/2000/svg">
-  <text x="200" y="24" fill="white" opacity="0.5" font-size="15" text-anchor="middle" font-family="Georgia, serif" letter-spacing="10" text-transform="uppercase">
-    ✦ chapel
-  </text>
-  <line x1="85" y1="36" x2="315" y2="36" stroke="white" stroke-width="0.3" opacity="0.1"/>
-</svg>
+<img src="https://raw.githubusercontent.com/ZHOIKA/ZHOIKA/main/sec_chapel.svg" alt="chapel" width="400" />
 
 <br><br>
 

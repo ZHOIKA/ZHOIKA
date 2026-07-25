@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="48" viewBox="0 0 400 48">
+  <defs>
+    <linearGradient id="fL" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="white" stop-opacity="0"/>
+      <stop offset="20%" stop-color="white" stop-opacity="0.06"/>
+      <stop offset="80%" stop-color="white" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="white" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fS" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="white" stop-opacity="0"/>
+      <stop offset="28%" stop-color="white" stop-opacity="0.08"/>
+      <stop offset="72%" stop-color="white" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="white" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <line x1="50" y1="20" x2="350" y2="20" stroke="url(#fL)" stroke-width="0.3"/>
+  <line x1="70" y1="24" x2="330" y2="24" stroke="url(#fS)" stroke-width="0.15"/>
+  <text x="90" y="19" fill="white" font-size="7" text-anchor="middle" font-family="Georgia, serif" opacity="0">
+    ✦
+    <animate attributeName="opacity" values="0;0.35;0.35;0" dur="4.2s" repeatCount="indefinite" begin="0.6s"/>
+  </text>
+  <text x="200" y="19" fill="white" font-size="15" text-anchor="middle" font-family="Georgia, serif" letter-spacing="10" opacity="0.5">
+    ✦ sanctuary
+    <animate attributeName="opacity" values="0.35;0.75;0.35" dur="5s" repeatCount="indefinite"/>
+  </text>
+  <text x="310" y="19" fill="white" font-size="7" text-anchor="middle" font-family="Georgia, serif" opacity="0">
+    ✦
+    <animate attributeName="opacity" values="0;0.35;0.35;0" dur="4.2s" repeatCount="indefinite" begin="2.6s"/>
+  </text>
+  <line x1="200" y1="26" x2="200" y2="38" stroke="white" stroke-width="0.4" opacity="0.12">
+    <animate attributeName="opacity" values="0.08;0.3;0.08" dur="4s" repeatCount="indefinite"/>
+  </line>
+  <line x1="194" y1="32" x2="206" y2="32" stroke="white" stroke-width="0.4" opacity="0.12">
+    <animate attributeName="opacity" values="0.08;0.3;0.08" dur="4s" repeatCount="indefinite"/>
+  </line>
+  <circle cx="200" cy="32" r="1" fill="white" opacity="0.2">
+    <animate attributeName="r" values="1;2;1" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.45;0.12" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>
