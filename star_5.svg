@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <!-- Pontinho brilhante - fade longo -->
+  <circle cx="10" cy="10" r="1.5" fill="white" opacity="0">
+    <animate attributeName="opacity" values="0;0.6;0.6;0" dur="6s" repeatCount="indefinite" begin="0s"/>
+  </circle>
+</svg>
+
