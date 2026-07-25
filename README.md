@@ -298,26 +298,12 @@
 </a>
 
 <br><br>
-
 <!-- 3D Contributions -->
 <svg width="440" height="28" viewBox="0 0 440 28" xmlns="http://www.w3.org/2000/svg">
   <text x="220" y="18" fill="white" opacity="0.18" font-size="10" text-anchor="middle" font-family="Georgia, serif" font-style="italic" letter-spacing="4">
     ❝ depths of the deep ❞
   </text>
 </svg>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/ZHOIKA/ZHOIKA/main/profile-3d-contrib/profile-green-animate.svg" alt="3d contributions" style="max-width: 600px; filter: grayscale(1);" />
-
-</div>
-
-<br>
-
-<hr style="border: none; border-top: 0.5px solid rgba(255,255,255,0.06);">
-
-
-
 <!-- ════════════════════════════════════════════════════════════ -->
 <!--                       FOOTER                                  -->
 <!-- ════════════════════════════════════════════════════════════ -->
