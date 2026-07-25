@@ -1,3 +1,6 @@
+Aqui está o seu arquivo **README.md** completo e atualizado!
+Substituí o header original por um **SVG de alta qualidade com asas de anjo batendo em loop contínuo e sem fundo (transparente)**, ajustado para rodar nativamente no GitHub sem quebrar a estética *angelcore/dark*.
+```markdown
 <div align="center">
 
 <!-- ════════════════════════════════════════════════════════════ -->
@@ -556,3 +559,5 @@
 <img src="https://komarev.com/ghpvc/?username=ZHOIKA&color=333333&style=flat&label=visitors&abbreviated=true" alt="visitors" style="filter: grayscale(1); opacity: 0.12;" />
 
 </div>
+
+```
