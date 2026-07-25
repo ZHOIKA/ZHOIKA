@@ -1,8 +1,43 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/ZHOIKA/ZHOIKA/main/wings.svg" alt="angel wings" width="550" height="280" />
+<br>
+<div align="center">
+<img src="https://raw.githubusercontent.com/ZHOIKA/ZHOIKA/main/sec_chapel.svg" alt="chapel" width="400" />
+<br><br>
+<a href="https://discord.gg/ZHOIKA">
+  <img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=white&labelColor=111" alt="Discord"/>
+</a>
+<a href="https://t.me/ZHOIKA">
+  <img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=111" alt="Telegram"/>
+</a>
+<a href="https://github.com/ZHOIKA">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white&labelColor=111" alt="GitHub"/>
+</a>
+</div>
+<br>
+<hr style="border: none; border-top: 0.5px solid rgba(255,255,255,0.06);">
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--                    ARMAMENT — SKILLS                          -->
+<!-- ════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ZHOIKA/ZHOIKA/main/sec_armament.svg" alt="armament" width="400" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=111" alt="Kotlin"/>
+<img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white&labelColor=111" alt="Android"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white&labelColor=111" alt="Git"/>
+<img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=111" alt="Discord"/>
+<img src="https://img.shields.io/badge/CLI-000000?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=111" alt="CLI"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white&labelColor=111" alt="Linux"/>
+
+</div>
 
 <br>
 
+<hr style="border: none; border-top: 0.5px solid rgba(255,255,255,0.06);">
 <!-- Tagline -->
 <svg width="480" height="42" viewBox="0 0 480 42" xmlns="http://www.w3.org/2000/svg">
   <text x="240" y="28" fill="white" opacity="0.45" font-size="14" text-anchor="middle" font-family="Georgia, serif" font-style="italic" letter-spacing="4">
@@ -10,14 +45,10 @@
     ✦ fallen angels write their own heaven ✦
   </text>
 </svg>
-
 <br>
-
 <!-- Divider ornament -->
 <img src="https://raw.githubusercontent.com/ZHOIKA/ZHOIKA/main/divider_thin.svg" alt="divider" width="320" />
-
 </div>
-
 <br>
 
 <!-- ════════════════════════════════════════════════════════════ -->
@@ -217,28 +248,7 @@
 
 <hr style="border: none; border-top: 0.5px solid rgba(255,255,255,0.06);">
 
-<!-- ════════════════════════════════════════════════════════════ -->
-<!--                    ARMAMENT — SKILLS                          -->
-<!-- ════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ZHOIKA/ZHOIKA/main/sec_armament.svg" alt="armament" width="400" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=111" alt="Kotlin"/>
-<img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white&labelColor=111" alt="Android"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white&labelColor=111" alt="Git"/>
-<img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=111" alt="Discord"/>
-<img src="https://img.shields.io/badge/CLI-000000?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=111" alt="CLI"/>
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white&labelColor=111" alt="Linux"/>
-
-</div>
-
-<br>
-
-<hr style="border: none; border-top: 0.5px solid rgba(255,255,255,0.06);">
 
 <!-- ════════════════════════════════════════════════════════════ -->
 <!--                  SANCTUARY — WIDGETS & QUOTES                 -->
@@ -306,31 +316,7 @@
 
 <hr style="border: none; border-top: 0.5px solid rgba(255,255,255,0.06);">
 
-<!-- ════════════════════════════════════════════════════════════ -->
-<!--                    CHAPEL — SOCIAL LINKS                      -->
-<!-- ════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ZHOIKA/ZHOIKA/main/sec_chapel.svg" alt="chapel" width="400" />
-
-<br><br>
-
-<a href="https://discord.gg/ZHOIKA">
-  <img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=white&labelColor=111" alt="Discord"/>
-</a>
-<a href="https://t.me/ZHOIKA">
-  <img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=111" alt="Telegram"/>
-</a>
-<a href="https://github.com/ZHOIKA">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white&labelColor=111" alt="GitHub"/>
-</a>
-
-</div>
-
-<br>
-
-<hr style="border: none; border-top: 0.5px solid rgba(255,255,255,0.06);">
 
 <!-- ════════════════════════════════════════════════════════════ -->
 <!--                       FOOTER                                  -->
@@ -379,7 +365,6 @@
 </p>
 
 <br>
-
 <!-- devotional text -->
 <details style="border: none; outline: none;">
 <summary style="list-style: none; cursor: default; color: #ffffff; font-family: 'Courier New', monospace; font-size: 9px; letter-spacing: 3px; text-transform: uppercase; opacity: 0.2;">
