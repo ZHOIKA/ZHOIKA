@@ -187,16 +187,7 @@
   <line x1="60" y1="30" x2="300" y2="30" stroke="white" stroke-width="0.2" opacity="0.06"/>
 </svg>
 
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZHOIKA/ZHOIKA/pacman-output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZHOIKA/ZHOIKA/pacman-output/pacman-contribution-graph.svg" />
-  <img alt="pacman devouring contributions" src="https://raw.githubusercontent.com/ZHOIKA/ZHOIKA/output/pacman-contribution-graph.svg" width="100%" style="max-width: 800px; filter: grayscale(0.4);" />
-</picture>
-
-</div>
-
+<br>
 <br>
 
 <!-- ════════════════════════════════════════════════════════════ -->
