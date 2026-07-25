@@ -1,0 +1,27 @@
+name: Generate 3D Contribution Profile
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ZHOIKA
+
+      - name: Commit & Push
+        run: |
+          git config user.name "Zyro Team"
+          git config user.email "davigomes07silva@gmail.com"
+          git add -A .
+          git commit -m "chore: update 3d contribution profile" || echo "no changes"
+          git push
+
