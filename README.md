@@ -1,151 +1,108 @@
 <div align="center">
 
 <!-- ════════════════════════════════════════════════════════════ -->
-<!--              ANGELCORE HEADER — INLINE SVG ANIMATIONS        -->
+<!--              ANGELCORE HEADER — ANGEL WINGS SVG             -->
 <!--  SMIL animations (animate, animateTransform) work on GitHub  -->
 <!-- ════════════════════════════════════════════════════════════ -->
 
-<svg width="500" height="260" viewBox="0 0 500 260" xmlns="http://www.w3.org/2000/svg">
+<svg width="550" height="280" viewBox="0 0 550 280" xmlns="http://www.w3.org/2000/svg">
 
-  <!-- deep radiance -->
-  <ellipse cx="250" cy="130" rx="100" ry="80" fill="white" opacity="0.012">
-    <animate attributeName="opacity" values="0.012;0.05;0.012" dur="6s" repeatCount="indefinite"/>
-    <animate attributeName="rx" values="100;130;100" dur="6s" repeatCount="indefinite"/>
-    <animate attributeName="ry" values="80;100;80" dur="6s" repeatCount="indefinite"/>
+  <!-- Glow de fundo central -->
+  <ellipse cx="275" cy="120" rx="110" ry="85" fill="white" opacity="0.015">
+    <animate attributeName="opacity" values="0.015;0.05;0.015" dur="5s" repeatCount="indefinite"/>
   </ellipse>
 
-  <!-- ≡≡≡  STARS THAT APPEAR, SHINE, THEN VANISH  ≡≡≡ -->
+  <!-- ≡≡≡ ESTRELAS E BRILHOS EM LOOP ≡≡≡ -->
   <g>
-    <text x="60" y="38" fill="white" font-size="11" font-family="Georgia" opacity="0">
+    <text x="70" y="45" fill="white" font-size="12" font-family="Georgia" opacity="0">
       ✦
-      <animate attributeName="opacity" values="0;0;0.8;0.8;0" dur="6s" repeatCount="indefinite" begin="0s"/>
+      <animate attributeName="opacity" values="0;0.9;0.9;0" dur="4s" repeatCount="indefinite" begin="0s"/>
     </text>
-    <text x="150" y="22" fill="white" font-size="8" font-family="Georgia" opacity="0">
+    <text x="160" y="30" fill="white" font-size="9" font-family="Georgia" opacity="0">
       ✧
-      <animate attributeName="opacity" values="0;0;0.55;0.55;0" dur="5s" repeatCount="indefinite" begin="0.8s"/>
+      <animate attributeName="opacity" values="0;0.7;0.7;0" dur="3.5s" repeatCount="indefinite" begin="0.8s"/>
     </text>
-    <text x="390" y="30" fill="white" font-size="12" font-family="Georgia" opacity="0">
+    <text x="430" y="35" fill="white" font-size="13" font-family="Georgia" opacity="0">
       ✦
-      <animate attributeName="opacity" values="0;0;0.85;0.85;0" dur="7s" repeatCount="indefinite" begin="1.5s"/>
+      <animate attributeName="opacity" values="0;0.95;0.95;0" dur="5s" repeatCount="indefinite" begin="1.5s"/>
     </text>
-    <text x="310" y="18" fill="white" font-size="7" font-family="Georgia" opacity="0">
+    <text x="350" y="22" fill="white" font-size="8" font-family="Georgia" opacity="0">
       ✧
-      <animate attributeName="opacity" values="0;0;0.45;0.45;0" dur="4.5s" repeatCount="indefinite" begin="0.4s"/>
+      <animate attributeName="opacity" values="0;0.6;0.6;0" dur="4.2s" repeatCount="indefinite" begin="0.4s"/>
     </text>
-    <text x="445" y="50" fill="white" font-size="9" font-family="Georgia" opacity="0">
+    <text x="480" y="60" fill="white" font-size="10" font-family="Georgia" opacity="0">
       ✦
-      <animate attributeName="opacity" values="0;0;0.65;0.65;0" dur="6.5s" repeatCount="indefinite" begin="2.2s"/>
+      <animate attributeName="opacity" values="0;0.8;0.8;0" dur="4.8s" repeatCount="indefinite" begin="2.2s"/>
     </text>
-    <text x="30" y="75" fill="white" font-size="8" font-family="Georgia" opacity="0">
+    <text x="40" y="85" fill="white" font-size="9" font-family="Georgia" opacity="0">
       ✧
-      <animate attributeName="opacity" values="0;0;0.5;0.5;0" dur="5.5s" repeatCount="indefinite" begin="2s"/>
-    </text>
-    <text x="230" y="28" fill="white" font-size="6" font-family="Georgia" opacity="0">
-      ✧
-      <animate attributeName="opacity" values="0;0;0.4;0.4;0" dur="4s" repeatCount="indefinite" begin="1.2s"/>
-    </text>
-    <text x="465" y="72" fill="white" font-size="10" font-family="Georgia" opacity="0">
-      ✦
-      <animate attributeName="opacity" values="0;0;0.6;0.6;0" dur="5.8s" repeatCount="indefinite" begin="3s"/>
-    </text>
-    <text x="110" y="62" fill="white" font-size="7" font-family="Georgia" opacity="0">
-      ✧
-      <animate attributeName="opacity" values="0;0;0.42;0.42;0" dur="3.8s" repeatCount="indefinite" begin="1.8s"/>
-    </text>
-    <text x="360" y="55" fill="white" font-size="6" font-family="Georgia" opacity="0">
-      ✧
-      <animate attributeName="opacity" values="0;0;0.35;0.35;0" dur="5s" repeatCount="indefinite" begin="3.5s"/>
-    </text>
-    <text x="185" y="42" fill="white" font-size="9" font-family="Georgia" opacity="0">
-      ✦
-      <animate attributeName="opacity" values="0;0;0.55;0.55;0" dur="4.2s" repeatCount="indefinite" begin="0.6s"/>
-    </text>
-    <text x="420" y="20" fill="white" font-size="5" font-family="Georgia" opacity="0">
-      ✧
-      <animate attributeName="opacity" values="0;0;0.3;0.3;0" dur="3.2s" repeatCount="indefinite" begin="2.8s"/>
+      <animate attributeName="opacity" values="0;0.65;0.65;0" dur="3.8s" repeatCount="indefinite" begin="2s"/>
     </text>
   </g>
 
-  <!-- ≡≡≡  SHOOTING STARS  ≡≡≡ -->
+  <!-- ≡≡≡ COMETAS / ESTRELAS CADENTES ≡≡≡ -->
   <g>
-    <line x1="40" y1="18" x2="75" y2="53" stroke="white" stroke-width="0.6" opacity="0">
-      <animate attributeName="opacity" values="0;0.85;0" dur="3.5s" repeatCount="indefinite" begin="0s"/>
-      <animate attributeName="x1" values="40;120" dur="3.5s" repeatCount="indefinite" begin="0s"/>
-      <animate attributeName="y1" values="18;98" dur="3.5s" repeatCount="indefinite" begin="0s"/>
-      <animate attributeName="x2" values="75;155" dur="3.5s" repeatCount="indefinite" begin="0s"/>
-      <animate attributeName="y2" values="53;133" dur="3.5s" repeatCount="indefinite" begin="0s"/>
+    <line x1="50" y1="20" x2="95" y2="65" stroke="white" stroke-width="0.8" opacity="0">
+      <animate attributeName="opacity" values="0;0.85;0" dur="3.2s" repeatCount="indefinite" begin="0.5s"/>
+      <animate attributeName="x1" values="50;140" dur="3.2s" repeatCount="indefinite" begin="0.5s"/>
+      <animate attributeName="y1" values="20;110" dur="3.2s" repeatCount="indefinite" begin="0.5s"/>
+      <animate attributeName="x2" values="95;185" dur="3.2s" repeatCount="indefinite" begin="0.5s"/>
+      <animate attributeName="y2" values="65;155" dur="3.2s" repeatCount="indefinite" begin="0.5s"/>
     </line>
-    <line x1="455" y1="22" x2="420" y2="57" stroke="white" stroke-width="0.6" opacity="0">
-      <animate attributeName="opacity" values="0;0.75;0" dur="4.5s" repeatCount="indefinite" begin="1.8s"/>
-      <animate attributeName="x1" values="455;360" dur="4.5s" repeatCount="indefinite" begin="1.8s"/>
-      <animate attributeName="y1" values="22;85" dur="4.5s" repeatCount="indefinite" begin="1.8s"/>
-      <animate attributeName="x2" values="420;325" dur="4.5s" repeatCount="indefinite" begin="1.8s"/>
-      <animate attributeName="y2" values="57;120" dur="4.5s" repeatCount="indefinite" begin="1.8s"/>
-    </line>
-    <line x1="290" y1="12" x2="312" y2="34" stroke="white" stroke-width="0.5" opacity="0">
-      <animate attributeName="opacity" values="0;0.65;0" dur="4s" repeatCount="indefinite" begin="3.5s"/>
-      <animate attributeName="x1" values="290;230" dur="4s" repeatCount="indefinite" begin="3.5s"/>
-      <animate attributeName="y1" values="12;50" dur="4s" repeatCount="indefinite" begin="3.5s"/>
-      <animate attributeName="x2" values="312;252" dur="4s" repeatCount="indefinite" begin="3.5s"/>
-      <animate attributeName="y2" values="34;72" dur="4s" repeatCount="indefinite" begin="3.5s"/>
+    <line x1="490" y1="25" x2="445" y2="70" stroke="white" stroke-width="0.8" opacity="0">
+      <animate attributeName="opacity" values="0;0.75;0" dur="4.2s" repeatCount="indefinite" begin="1.8s"/>
+      <animate attributeName="x1" values="490;385" dur="4.2s" repeatCount="indefinite" begin="1.8s"/>
+      <animate attributeName="y1" values="25;98" dur="4.2s" repeatCount="indefinite" begin="1.8s"/>
+      <animate attributeName="x2" values="445;340" dur="4.2s" repeatCount="indefinite" begin="1.8s"/>
+      <animate attributeName="y2" values="70;143" dur="4.2s" repeatCount="indefinite" begin="1.8s"/>
     </line>
   </g>
 
-  <!-- ≡≡≡  LEFT WING — BEATING  ≡≡≡ -->
+  <!-- ≡≡≡ AURÉOLA PULSANTE ≡≡≡ -->
+  <ellipse cx="275" cy="50" rx="42" ry="11" fill="none" stroke="white" stroke-width="0.75" opacity="0.4">
+    <animate attributeName="ry" values="11;15;11" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.25;0.7;0.25" dur="3s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="275" cy="50" rx="30" ry="8" fill="none" stroke="white" stroke-width="0.4" opacity="0.2">
+    <animate attributeName="ry" values="8;11;8" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.1;0.4;0.1" dur="3s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- ≡≡≡ ASAS DE ANJO ANIMADAS (SEM FUNDO / TRANSPARENTES) ≡≡≡ -->
+  <!-- Asa Esquerda -->
   <g>
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-9; 0,0" dur="3.5s" repeatCount="indefinite"/>
-    <path d="M250 125 Q190 42 100 52 Q52 62 22 100 Q10 128 12 155 Q24 136 58 124 Q92 112 130 104 L250 125Z" fill="white" opacity="0.04"/>
-    <path d="M250 125 Q195 50 122 58 Q76 68 46 102 Q34 124 30 148 Q48 132 78 120 Q108 108 148 100 L250 125Z" fill="white" opacity="0.08"/>
-    <path d="M250 125 Q200 60 140 66 Q98 74 68 106 Q55 122 50 140 Q70 126 94 116 Q124 104 158 96 L250 125Z" fill="white" opacity="0.13"/>
-    <path d="M250 125 M205 68 Q162 38 110 44 Q72 50 42 78 Q30 92 25 108 Q48 94 72 84 Q102 72 138 64 L250 125Z" fill="white" opacity="0.06"/>
+    <animateTransform attributeName="transform" type="rotate" values="0 275 120; -7 275 120; 0 275 120" dur="3.2s" repeatCount="indefinite" />
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-4; 0,0" dur="3.2s" repeatCount="indefinite" additive="sum"/>
+    <path d="M275 120 Q200 25 100 40 Q45 50 12 92 Q-2 122 0 148 Q16 128 55 115 Q95 102 140 94 L275 120Z" fill="white" opacity="0.18"/>
+    <path d="M275 120 Q205 35 122 45 Q66 55 33 92 Q20 112 17 138 Q33 122 66 110 Q100 98 145 90 L275 120Z" fill="white" opacity="0.38"/>
+    <path d="M275 120 Q210 45 144 52 Q94 60 61 95 Q47 110 42 128 Q64 114 91 104 Q124 92 163 84 L275 120Z" fill="white" opacity="0.68"/>
+    <path d="M275 120 Q225 58 175 64 Q135 70 102 96 Q90 108 85 120 Q102 110 125 102 Q152 92 185 86 L275 120Z" fill="white" opacity="0.88"/>
   </g>
 
-  <!-- ≡≡≡  RIGHT WING — BEATING (opposite phase)  ≡≡≡ -->
+  <!-- Asa Direita -->
   <g>
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,9; 0,0" dur="3.5s" repeatCount="indefinite"/>
-    <path d="M250 125 Q310 42 400 52 Q448 62 478 100 Q490 128 488 155 Q476 136 442 124 Q408 112 370 104 L250 125Z" fill="white" opacity="0.04"/>
-    <path d="M250 125 Q305 50 378 58 Q424 68 454 102 Q466 124 470 148 Q452 132 422 120 Q392 108 352 100 L250 125Z" fill="white" opacity="0.08"/>
-    <path d="M250 125 Q300 60 360 66 Q402 74 432 106 Q445 122 450 140 Q430 126 406 116 Q376 104 342 96 L250 125Z" fill="white" opacity="0.13"/>
-    <path d="M250 125 M295 68 Q338 38 390 44 Q428 50 458 78 Q470 92 475 108 Q452 94 428 84 Q398 72 362 64 L250 125Z" fill="white" opacity="0.06"/>
+    <animateTransform attributeName="transform" type="rotate" values="0 275 120; 7 275 120; 0 275 120" dur="3.2s" repeatCount="indefinite" />
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-4; 0,0" dur="3.2s" repeatCount="indefinite" additive="sum"/>
+    <path d="M275 120 Q350 25 450 40 Q505 50 538 92 Q552 122 550 148 Q534 128 495 115 Q455 102 410 94 L275 120Z" fill="white" opacity="0.18"/>
+    <path d="M275 120 Q345 35 428 45 Q484 55 517 92 Q530 112 533 138 Q517 122 484 110 Q450 98 405 90 L275 120Z" fill="white" opacity="0.38"/>
+    <path d="M275 120 Q340 45 406 52 Q456 60 489 95 Q503 110 508 128 Q486 114 459 104 Q426 92 387 84 L275 120Z" fill="white" opacity="0.68"/>
+    <path d="M275 120 Q325 58 375 64 Q415 70 448 96 Q460 108 465 120 Q448 110 425 102 Q398 92 365 86 L275 120Z" fill="white" opacity="0.88"/>
   </g>
 
-  <!-- ≡≡≡  PULSING HALO  ≡≡≡ -->
-  <circle cx="250" cy="125" r="44" fill="none" stroke="white" stroke-width="0.5" opacity="0.2">
-    <animate attributeName="r" values="44;60;44" dur="4s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.2;0.5;0.2" dur="4s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="250" cy="125" r="34" fill="none" stroke="white" stroke-width="0.35" opacity="0.12">
-    <animate attributeName="r" values="34;46;34" dur="4s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.12;0.35;0.12" dur="4s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="250" cy="125" r="20" fill="none" stroke="white" stroke-width="0.25" opacity="0.08">
-    <animate attributeName="r" values="20;28;20" dur="4s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.08;0.2;0.08" dur="4s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="250" cy="125" r="10" fill="white" opacity="0.03">
-    <animate attributeName="r" values="10;15;10" dur="4s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.03;0.08;0.03" dur="4s" repeatCount="indefinite"/>
+  <!-- Núcleo de Luz Central -->
+  <circle cx="275" cy="120" r="4" fill="white" opacity="0.8">
+    <animate attributeName="r" values="3;6;3" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.5s" repeatCount="indefinite"/>
   </circle>
 
-  <!-- ≡≡≡  ORBITING RINGS  ≡≡≡ -->
-  <g>
-    <animateTransform attributeName="transform" type="rotate" from="0 250 65" to="360 250 65" dur="18s" repeatCount="indefinite"/>
-    <ellipse cx="250" cy="65" rx="55" ry="16" fill="none" stroke="white" stroke-width="0.4" opacity="0.1"/>
-    <ellipse cx="250" cy="65" rx="44" ry="12" fill="none" stroke="white" stroke-width="0.25" opacity="0.05"/>
-  </g>
-  <g>
-    <animateTransform attributeName="transform" type="rotate" from="360 250 65" to="0 250 65" dur="22s" repeatCount="indefinite"/>
-    <ellipse cx="250" cy="65" rx="66" ry="18" fill="none" stroke="white" stroke-width="0.3" opacity="0.07"/>
-  </g>
-
-  <!-- ≡≡≡  ZHOIKA TITLE WITH GENTLE BREATHING  ≡≡≡ -->
-  <text x="250" y="202" fill="white" font-size="34" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" letter-spacing="10" opacity="0.9">
+  <!-- ≡≡≡ TÍTULO ZHOIKA ≡≡≡ -->
+  <text x="275" y="215" fill="white" font-size="36" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" letter-spacing="12" opacity="0.9">
     ZHOIKA
     <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" repeatCount="indefinite"/>
   </text>
 
-  <!-- subtitle -->
-  <text x="250" y="230" fill="white" font-size="10" text-anchor="middle" font-family="'Courier New', monospace" letter-spacing="12" opacity="0.28">
+  <!-- Subtítulo -->
+  <text x="275" y="245" fill="white" font-size="10" text-anchor="middle" font-family="'Courier New', monospace" letter-spacing="12" opacity="0.3">
     ET LVX IN TENEBRIS LVCET
     <animate attributeName="opacity" values="0.15;0.45;0.15" dur="5s" repeatCount="indefinite"/>
   </text>
@@ -181,7 +138,6 @@
 
 <!-- ════════════════════════════════════════════════════════════ -->
 <!--              PAC-MAN CONTRIBUTION ANIMATION                  -->
-<!--  Uses the output branch — already generated & working        -->
 <!-- ════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -273,9 +229,6 @@
 
 <!-- ════════════════════════════════════════════════════════════ -->
 <!--                   GRIMOIRE — PROJECT CARDS                   -->
-<!--  No onmouseover/onmouseout — GitHub strips JS event handlers -->
-<!--  Pure CSS hover via inline <style> won't work either         -->
-<!--  Using simple transparent cards with subtle existing borders -->
 <!-- ════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -302,7 +255,7 @@
 <span style="font-family: 'Courier New', monospace; font-size: 11px; color: #444; letter-spacing: 1px;">Android · Kotlin · Discord</span>
 
 <p style="font-family: Georgia, serif; color: #777; font-size: 14px; line-height: 1.7; font-style: italic; margin-top: 8px;">
-  Personalize sua presenca no Discord com estilo, controle e uma experiencia moderna no Android.
+  Personalize sua presença no Discord com estilo, controle e uma experiência moderna no Android.
 </p>
 
 <div align="right">
@@ -492,7 +445,7 @@
 
 <br><br>
 
-<!-- Snake Game (will appear after first workflow run) -->
+<!-- 3D Contributions -->
 <svg width="440" height="28" viewBox="0 0 440 28" xmlns="http://www.w3.org/2000/svg">
   <text x="220" y="18" fill="white" opacity="0.18" font-size="10" text-anchor="middle" font-family="Georgia, serif" font-style="italic" letter-spacing="4">
     ❝ depths of the deep ❞
@@ -542,14 +495,12 @@
 
 <!-- ════════════════════════════════════════════════════════════ -->
 <!--                       FOOTER                                  -->
-<!--  No <marquee> — GitHub strips it. Using static text + SVGs    -->
 <!-- ════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <svg width="500" height="120" viewBox="0 0 500 120" xmlns="http://www.w3.org/2000/svg">
 
-  <!-- footer stars appearing and vanishing -->
   <g>
     <text x="70" y="25" fill="white" font-size="8" font-family="Georgia" opacity="0">
       ✧
@@ -563,31 +514,13 @@
       ✧
       <animate attributeName="opacity" values="0;0;0.4;0.4;0" dur="4s" repeatCount="indefinite" begin="2.5s"/>
     </text>
-    <text x="360" y="30" fill="white" font-size="6" font-family="Georgia" opacity="0">
-      ✧
-      <animate attributeName="opacity" values="0;0;0.45;0.45;0" dur="4.8s" repeatCount="indefinite" begin="0.8s"/>
-    </text>
-    <text x="140" y="32" fill="white" font-size="8" font-family="Georgia" opacity="0">
-      ✦
-      <animate attributeName="opacity" values="0;0;0.5;0.5;0" dur="5.2s" repeatCount="indefinite" begin="3s"/>
-    </text>
-    <text x="440" y="35" fill="white" font-size="7" font-family="Georgia" opacity="0">
-      ✧
-      <animate attributeName="opacity" values="0;0;0.35;0.35;0" dur="3.5s" repeatCount="indefinite" begin="1.2s"/>
-    </text>
-    <text x="50" y="45" fill="white" font-size="6" font-family="Georgia" opacity="0">
-      ✧
-      <animate attributeName="opacity" values="0;0;0.3;0.3;0" dur="4.2s" repeatCount="indefinite" begin="0.5s"/>
-    </text>
   </g>
 
-  <!-- rotating ring -->
   <g>
     <animateTransform attributeName="transform" type="rotate" from="0 250 50" to="360 250 50" dur="16s" repeatCount="indefinite"/>
     <ellipse cx="250" cy="50" rx="60" ry="18" fill="none" stroke="white" stroke-width="0.35" opacity="0.06"/>
   </g>
 
-  <!-- central pulse -->
   <circle cx="250" cy="50" r="6" fill="none" stroke="white" stroke-width="0.5" opacity="0.15">
     <animate attributeName="r" values="6;12;6" dur="3s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.15;0.35;0.15" dur="3s" repeatCount="indefinite"/>
@@ -608,7 +541,7 @@
 
 <br>
 
-<!-- devotional text — scrolls infinitely via pure CSS animation -->
+<!-- devotional text -->
 <details style="border: none; outline: none;">
 <summary style="list-style: none; cursor: default; color: #1a1a1a; font-family: 'Courier New', monospace; font-size: 9px; letter-spacing: 3px; text-transform: uppercase; opacity: 0.5;">
   ✧ sententiae perpetuae ✧
@@ -623,6 +556,3 @@
 <img src="https://komarev.com/ghpvc/?username=ZHOIKA&color=333333&style=flat&label=visitors&abbreviated=true" alt="visitors" style="filter: grayscale(1); opacity: 0.12;" />
 
 </div>
-
-
-
