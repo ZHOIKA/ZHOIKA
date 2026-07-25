@@ -1,13 +1,7 @@
 <div align="center">
-
-<!-- ════════════════════════════════════════════════════════════ -->
-<!--              ANGELCORE HEADER — INLINE SVG ANIMATIONS        -->
-<!--  SMIL animations (animate, animateTransform) work on GitHub  -->
-<!-- ════════════════════════════════════════════════════════════ -->
-
 <svg width="500" height="260" viewBox="0 0 500 260" xmlns="http://www.w3.org/2000/svg">
 
-  <!-- deep radiance -->
+  
   <ellipse cx="250" cy="130" rx="100" ry="80" fill="white" opacity="0.012">
     <animate attributeName="opacity" values="0.012;0.05;0.012" dur="6s" repeatCount="indefinite"/>
     <animate attributeName="rx" values="100;130;100" dur="6s" repeatCount="indefinite"/>
