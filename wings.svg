@@ -97,14 +97,7 @@ flood-opacity=".45"/>
 </filter>
 
 </defs>
-<!-- ===================================================== -->
-<!--                 CINEMATIC BACKGROUND                  -->
-<!-- ===================================================== -->
 
-<rect
-    width="100%"
-    height="100%"
-    fill="transparent"/>
 
 <!-- Luz principal -->
 
@@ -672,5 +665,6 @@ repeatCount="indefinite"/>
 </text>
 
 </svg>
+
 
 
