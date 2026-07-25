@@ -1,10 +1,4 @@
 <div align="center">
-
-<!-- ════════════════════════════════════════════════════════════ -->
-<!--              ANGELCORE HEADER — ANGEL WINGS SVG             -->
-<!--  SMIL animations (animate, animateTransform) work on GitHub  -->
-<!-- ════════════════════════════════════════════════════════════ -->
-
 <img src="https://raw.githubusercontent.com/ZHOIKA/ZHOIKA/main/wings.svg" alt="angel wings" width="550" height="280" />
 
 <br>
