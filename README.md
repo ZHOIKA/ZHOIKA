@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 <div align="center">
   <img src="./wings.svg" width="550" alt="Zhoika Header" />
 </div>
 
+=======
+
+```markdown
+>>>>>>> 455dab9094e3485d5f37d9213bccde3ba8f84573
 <div align="center">
 
 <!-- ════════════════════════════════════════════════════════════ -->
